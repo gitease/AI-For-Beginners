@@ -10,3 +10,7 @@
 	path = promptflow
 	url = https://github.com/civigit/promptflow.git
 	branch = main
+[submodule "teamcity"]
+	path = teamcity
+	url = https://github.com/gotovalue/teamcity-documentation.git
+	branch = 2023.05
