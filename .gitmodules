@@ -2,7 +2,3 @@
 	path = StableLM
 	url = https://github.com/gitease/StableLM.git
 	branch = alpha-v2
-[submodule "StableStudio"]
-	path = StableStudio
-	url = https://github.com/gitease/StableStudio.git
-	branch = dev
