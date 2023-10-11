@@ -1,0 +1,8 @@
+[submodule "StableLM"]
+	path = StableLM
+	url = https://github.com/gitease/StableLM.git
+	branch = main
+[submodule "StableStudio"]
+	path = StableStudio
+	url = https://github.com/gitease/StableStudio.git
+	branch = main
